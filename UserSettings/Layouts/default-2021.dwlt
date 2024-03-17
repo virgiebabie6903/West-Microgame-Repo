@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 70
+  controlID: 128
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 71
+  controlID: 129
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 412.66663
     height: 926
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -318,23 +318,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Karting/Prefabs/VFX
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Karting/Prefabs/VFX
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\b3ds9\Virgil's Uni Project
+  m_LastProjectPath: C:\Users\b3ds9\Documents\GitHub\West-Microgame-Repo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 363.6667}
-    m_SelectedIDs: da890000
-    m_LastClickedID: 35290
-    m_ExpandedIDs: 000000006a89000088890000dc89000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 70890000
+    m_LastClickedID: 35184
+    m_ExpandedIDs: 000000007089000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -362,7 +362,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a890000
+    m_ExpandedIDs: 0000000070890000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -389,7 +389,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a4810000808c00008c8c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -451,9 +451,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3e42ffff2c43ffffba45ffffcc45ffff2a50ffff0852fffffc69ffffb06affff3e6dffff506dffffae77ffff8c79ffff0efbffff507a0000
+      m_SelectedIDs: 82790000
+      m_LastClickedID: 31106
+      m_ExpandedIDs: 0efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -726,9 +726,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10.393015, y: 4.254657, z: 34.025433}
+    m_Target: {x: 10.347856, y: 1.4598279, z: 33.479836}
     speed: 2
-    m_Value: {x: 10.393015, y: 4.254657, z: 34.025433}
+    m_Value: {x: 10.347856, y: 1.4598279, z: 33.479836}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -775,13 +775,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12524697, y: -0.2588781, z: 0.033835154, w: 0.95720065}
+    m_Target: {x: 0.12155391, y: -0.22440499, z: 0.028180698, w: 0.9665252}
     speed: 2
-    m_Value: {x: 0.12619892, y: -0.25883347, z: 0.034092657, w: 0.9570354}
+    m_Value: {x: 0.12248588, y: -0.22533196, z: 0.02852624, w: 0.966131}
   m_Size:
-    m_Target: 7.346776
+    m_Target: 10.505507
     speed: 2
-    m_Value: 7.0304074
+    m_Value: 11.000531
   m_Ortho:
     m_Target: 0
     speed: 2
